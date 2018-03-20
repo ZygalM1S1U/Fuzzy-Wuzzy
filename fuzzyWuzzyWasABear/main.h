@@ -11,9 +11,10 @@
 #include <dirent.h>
 #include <unistd.h>
 #include <stdbool.h>
-/*function prototypes*/
 
+/*function prototypes*/
 int main(void);
 
+void printFuzzy(void);
 
 #endif // MAIN_H_
